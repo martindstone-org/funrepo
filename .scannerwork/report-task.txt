@@ -1,0 +1,7 @@
+organization=martindstone-org
+projectKey=martindstone-org_funrepo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56336
+dashboardUrl=https://sonarcloud.io/dashboard?id=martindstone-org_funrepo
+ceTaskId=AZGAVC7rgLJvln9T2JN9
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZGAVC7rgLJvln9T2JN9
